@@ -4,9 +4,8 @@ One of the most common issues that manual-traders are faced with in Forex Market
 # How does this project help you?
 We designed it to visualize fundamental events on chart:
 * scrap data from forex factory website using chrome web-Driver
-* load 
-* Semantic Segmentation (soon)
-* Keypoint Detection (soon)
+* load and visualize events from csv file into mq4 expert advisor
+* real-time event recognition (soon)
 
 ## Some Interesting Results !
 ![alt text](https://github.com/pr1266/NJFC_Auto_Fund_Limit/blob/main/src/1.png)
