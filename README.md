@@ -9,7 +9,8 @@ We designed it to visualize fundamental events on chart:
 * Keypoint Detection (soon)
 
 ## Some Interesting Results !
-![alt text](https://github.com/pr1266/data_augmentation/blob/master/src/final_res.jpg)
+![alt text](https://github.com/pr1266/NJFC_Auto_Fund_Limit/blob/main/src/1.png)
+![alt text](https://github.com/pr1266/NJFC_Auto_Fund_Limit/blob/main/src/2.png)
 
 ## Contact
 
