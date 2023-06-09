@@ -5,6 +5,8 @@ One of the most common issues that manual-traders are faced with in Forex Market
 We designed it to visualize fundamental events on chart:
 * scrap data from forex factory website using chrome web-Driver
 * load and visualize events from csv file into mq4 expert advisor
+* extend a time range before and after of fundamental time by changing epsilon extern variable
+* shift broker time into UTC time by changing delay variable based on your local time
 * real-time event recognition (soon)
 
 ## Some Interesting Results !
